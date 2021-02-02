@@ -1,0 +1,463 @@
+{C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/MSB_ALU.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/MSB_ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MSB_ALU
+
+Top level modules:
+	MSB_ALU
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/ForwardingUnit.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/ForwardingUnit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Reg_File.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Reg_File.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Reg_File
+
+Top level modules:
+	Reg_File
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/WB_register.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/WB_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module WB_register
+
+Top level modules:
+	WB_register
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/MUX_3to1.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/MUX_3to1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_3to1
+
+Top level modules:
+	MUX_3to1
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/EXE_register.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/EXE_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EXE_register
+
+Top level modules:
+	EXE_register
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/ProgramCounter.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/ProgramCounter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Data_Memory.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Data_Memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/EXE_register.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/EXE_register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EXE_register
+
+Top level modules:
+	EXE_register
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/ALU_Ctrl.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/ALU_Ctrl.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_Ctrl
+
+Top level modules:
+	ALU_Ctrl
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/EXE_register.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/EXE_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EXE_register
+
+Top level modules:
+	EXE_register
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Full_adder.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Full_adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Full_adder
+
+Top level modules:
+	Full_adder
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Imm_Gen.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Imm_Gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Imm_Gen
+
+Top level modules:
+	Imm_Gen
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Decoder.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/WB_register.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/WB_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module WB_register
+
+Top level modules:
+	WB_register
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/MUX_2to1.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/MUX_2to1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_2to1
+
+Top level modules:
+	MUX_2to1
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/testbench.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/testbench.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/ProgramCounter.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/ProgramCounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Shift_Left_1.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Shift_Left_1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shift_Left_1
+
+Top level modules:
+	Shift_Left_1
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/MSB_ALU.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/MSB_ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MSB_ALU
+
+Top level modules:
+	MSB_ALU
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/ALU_1bit.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/ALU_1bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_1bit
+
+Top level modules:
+	ALU_1bit
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/IF_register.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/IF_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_register
+
+Top level modules:
+	IF_register
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/WB_register.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/WB_register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module WB_register
+
+Top level modules:
+	WB_register
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/MUX_2to1.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/MUX_2to1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_2to1
+
+Top level modules:
+	MUX_2to1
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Reg_File.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Reg_File.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Reg_File
+
+Top level modules:
+	Reg_File
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Shift_Left_1.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Shift_Left_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shift_Left_1
+
+Top level modules:
+	Shift_Left_1
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Adder.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Shift_Left_1.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Shift_Left_1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shift_Left_1
+
+Top level modules:
+	Shift_Left_1
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/ALU_1bit.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/ALU_1bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_1bit
+
+Top level modules:
+	ALU_1bit
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/ProgramCounter.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/ProgramCounter.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/alu.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Reg_File.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Reg_File.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Reg_File
+
+Top level modules:
+	Reg_File
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/MEM_register.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/MEM_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_register
+
+Top level modules:
+	MEM_register
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/instr_type_decoder.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/instr_type_decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module instr_type_decoder
+
+Top level modules:
+	instr_type_decoder
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Imm_Gen.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Imm_Gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Imm_Gen
+
+Top level modules:
+	Imm_Gen
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Hazard_detection.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Hazard_detection.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Hazard_detection
+
+Top level modules:
+	Hazard_detection
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/ALU_Ctrl.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/ALU_Ctrl.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_Ctrl
+
+Top level modules:
+	ALU_Ctrl
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Adder.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Adder.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/ForwardingUnit.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/ForwardingUnit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/MEM_register.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/MEM_register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_register
+
+Top level modules:
+	MEM_register
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Full_adder.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Full_adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Full_adder
+
+Top level modules:
+	Full_adder
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/MEM_register.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/MEM_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_register
+
+Top level modules:
+	MEM_register
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/IF_register.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/IF_register.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_register
+
+Top level modules:
+	IF_register
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/ALU_Ctrl.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/ALU_Ctrl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_Ctrl
+
+Top level modules:
+	ALU_Ctrl
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Pipeline_CPU.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Pipeline_CPU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Pipeline_CPU
+
+Top level modules:
+	Pipeline_CPU
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Decoder.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Decoder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/testbench.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/testbench.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Instr_Memory.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Instr_Memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Instr_Memory
+
+Top level modules:
+	Instr_Memory
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/alu.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/IF_register.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/IF_register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_register
+
+Top level modules:
+	IF_register
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Data_Memory.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Data_Memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/MSB_ALU.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/MSB_ALU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MSB_ALU
+
+Top level modules:
+	MSB_ALU
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Pipeline_CPU.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Pipeline_CPU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Pipeline_CPU
+
+Top level modules:
+	Pipeline_CPU
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Pipeline_CPU.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Pipeline_CPU.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Pipeline_CPU
+
+Top level modules:
+	Pipeline_CPU
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Instr_Memory.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Instr_Memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Instr_Memory
+
+Top level modules:
+	Instr_Memory
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Instr_Memory.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Instr_Memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Instr_Memory
+
+Top level modules:
+	Instr_Memory
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/testbench.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/testbench.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/alu.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/homework/master/lab/computer_arch/Lab5/Imm_Gen.v {1 {vlog -work work -stats=none D:/homework/master/lab/computer_arch/Lab5/Imm_Gen.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Imm_Gen
+
+Top level modules:
+	Imm_Gen
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Decoder.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/Decoder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/MUX_2to1.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/MUX_2to1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_2to1
+
+Top level modules:
+	MUX_2to1
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/MUX_3to1.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v2/MUX_3to1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX_3to1
+
+Top level modules:
+	MUX_3to1
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/ALU_1bit.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/ALU_1bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_1bit
+
+Top level modules:
+	ALU_1bit
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Data_Memory.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Data_Memory.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Full_adder.v} {1 {vlog -work work -stats=none {C:/Users/Peter/Desktop/RISC-V Lab/Lab5_v1/Full_adder.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Full_adder
+
+Top level modules:
+	Full_adder
+
+} {} {}}
