@@ -15,7 +15,13 @@ module ForwardingUnit (instr_i,EXE_instr19_15, EXE_instr24_20, MEM_instr11_7, ME
 						(WB_Control[1]==1 && (WB_instr11_7 == EXE_instr19_15))?2'd1:
 						2'd0;
 	
-	assign src2_sel_o =	(instr_type != 1 )?(
+	/*
+	assign src2_sel_o =	(MEM_WBControl[1]==1 && (MEM_instr11_7 == EXE_instr24_20))?2'd2:
+
+							(WB_Control[1]==1 &&(WB_instr11_7 == EXE_instr24_20))?2'd1:
+							2'd0;
+							*/
+								assign src2_sel_o =	(instr_type != 1 )?(
 							(MEM_WBControl[1]==1 && (MEM_instr11_7 == EXE_instr24_20))?2'd2:
 							(WB_Control[1]==1 &&(WB_instr11_7 == EXE_instr24_20))?2'd1:
 							2'd0
