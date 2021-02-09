@@ -1,0 +1,20 @@
+addi r5, r0, 1    r5 = 1
+addi r6, r0, 2    r6 =2
+addi r7, r0, 3    r7 = 3
+jal r1, 24        r1 = 16 PC_i = 24 jump_to:addi r2, r2, -12 
+bge r7, r5, 44   	
+addi r6, r6, 31 
+addi r2, r2, -12  r2=116
+sw r5, 0(r2) 	
+sw r6, 4(r2) 
+sw r7, 8(r2)     
+addi r5, r5, 3 		
+addi r6, r6, 3   	
+addi r7, r7, 3 
+blt r6, r7, -36 
+addi r5, r5, 31 
+lw r8, 0(r2) 
+lw r9, 4(r2) 
+lw r10, 8(r2) 
+addi r2, r2, 12 
+

@@ -1,0 +1,25 @@
+Wed Jan 27 20:50:55 CST 2021
+Trace back: invalid command name ".main_pane.cs.270.pw"
+    while executing
+"$w cget -opaqueresize"
+    (procedure "::tk::panedwindow::ReleaseSash" line 2)
+    invoked from within
+"::tk::panedwindow::ReleaseSash $w $opaque"
+    (procedure "::tk::panedwindow::2DReleaseSash" line 8)
+    invoked from within
+"::tk::panedwindow::2DReleaseSash .main_pane.cs.pw 139 181 139 354 0"
+    (command bound to event)
+  <2:C:/Modeltech_pe_edu_10.4a/win32pe_edu/tk8.5/bgerror.tcl:92: ::tkerror {invalid command name ".main_pane.cs.270.pw"}
+  <1:eval:1: ::tk::dialog::error::bgerror {invalid command name ".main_pane.cs.270.pw"}
+Thu Jan 28 15:46:36 CST 2021
+Trace back: can't read "::vsimPriv(tbarBtnIgnore)": no such element in array
+    while executing
+"if { ! $::vsimPriv(tbarBtnIgnore) } {
+            ButtonInvoke $b $m
+         }"
+    (procedure "Tbar::BMenu::Action" line 51)
+    invoked from within
+"Tbar::BMenu::Action release .dockbar.tbf8.bookmarks.tb.button_48 .dockbar.tbf8.bookmarks.tb.button_48.menu 4 8 1"
+    (command bound to event)
+  <2:C:/Modeltech_pe_edu_10.4a/win32pe_edu/tk8.5/bgerror.tcl:92: ::tkerror {can't read "::vsimPriv(tbarBtnIgnore)": no such element in array}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "::vsimPriv(tbarBtnIgnore)": no such element in array}

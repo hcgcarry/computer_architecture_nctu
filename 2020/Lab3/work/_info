@@ -1,0 +1,294 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/homework/master/lab/computer_arch/Lab2
+vAdder
+Z0 !s110 1611193314
+!i10b 1
+!s100 AOGoL`2hJOEVCBBoP5hWL0
+Iecd=1dc4[>MMOMYMBzPZ=2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/homework/master/lab/computer_arch/Lab3
+w1611127137
+8D:/homework/master/lab/computer_arch/Lab3/Adder.v
+FD:/homework/master/lab/computer_arch/Lab3/Adder.v
+L0 8
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1611193314.000000
+!s107 D:/homework/master/lab/computer_arch/Lab3/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/Adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@adder
+valu
+!s110 1611230957
+!i10b 1
+!s100 0hn?7RBKIg5U`@NGdX@RE2
+IPY9>1FN@E]gU@<0ODPYAj2
+R1
+R2
+w1611229650
+8D:/homework/master/lab/computer_arch/Lab3/alu.v
+FD:/homework/master/lab/computer_arch/Lab3/alu.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1611230957.000000
+!s107 D:/homework/master/lab/computer_arch/Lab3/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/alu.v|
+!s101 -O0
+!i113 1
+R5
+vALU_1bit
+Z6 !s110 1611193315
+!i10b 1
+!s100 R:RCQBNfJRN3a?z@6mhW82
+I=N7ECHWF1KB@nfUCXU18P3
+R1
+R2
+w1611127253
+8D:/homework/master/lab/computer_arch/Lab3/ALU_1bit.v
+FD:/homework/master/lab/computer_arch/Lab3/ALU_1bit.v
+L0 7
+R3
+r1
+!s85 0
+31
+Z7 !s108 1611193315.000000
+!s107 D:/homework/master/lab/computer_arch/Lab3/ALU_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/ALU_1bit.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u_1bit
+vALU_Ctrl
+!s110 1611229092
+!i10b 1
+!s100 [Dcjk`XBDWckinfT^8Ge?1
+In7[mMH4<Oz5;I`nE[KKn?0
+R1
+R2
+w1611228891
+8D:/homework/master/lab/computer_arch/Lab3/ALU_Ctrl.v
+FD:/homework/master/lab/computer_arch/Lab3/ALU_Ctrl.v
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1611229092.000000
+!s107 D:/homework/master/lab/computer_arch/Lab3/ALU_Ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/ALU_Ctrl.v|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u_@ctrl
+vDecoder
+R6
+!i10b 1
+!s100 _R6kKC0cl`HafhL?mN[=o1
+ISh797?_B?ND0Go_hbdhD?3
+R1
+R2
+w1610533536
+8D:/homework/master/lab/computer_arch/Lab3/Decoder.v
+FD:/homework/master/lab/computer_arch/Lab3/Decoder.v
+L0 8
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/homework/master/lab/computer_arch/Lab3/Decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/Decoder.v|
+!s101 -O0
+!i113 1
+R5
+n@decoder
+vImm_Gen
+!s110 1611242978
+!i10b 1
+!s100 JU2zJRbJ0iQ1BF>9jgR_D2
+IT@SV@?>m<J_AbQjBDSCD01
+R1
+R2
+w1611242969
+8D:/homework/master/lab/computer_arch/Lab3/Imm_Gen.v
+FD:/homework/master/lab/computer_arch/Lab3/Imm_Gen.v
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1611242978.000000
+!s107 D:/homework/master/lab/computer_arch/Lab3/Imm_Gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/Imm_Gen.v|
+!s101 -O0
+!i113 1
+R5
+n@imm_@gen
+vInstr_Memory
+!s110 1611243386
+!i10b 1
+!s100 M6f^a0gNko0EPRPQXh<hn3
+I9AnjGjKg6S]ad055<@LC`0
+R1
+R2
+w1611243375
+8D:/homework/master/lab/computer_arch/Lab3/Instr_Memory.v
+FD:/homework/master/lab/computer_arch/Lab3/Instr_Memory.v
+L0 8
+R3
+r1
+!s85 0
+31
+!s108 1611243386.000000
+!s107 D:/homework/master/lab/computer_arch/Lab3/Instr_Memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/Instr_Memory.v|
+!s101 -O0
+!i113 1
+R5
+n@instr_@memory
+vMUX_2to1
+R6
+!i10b 1
+!s100 bZU1GlQC2A?YRH`A0V1Nd1
+I;nGWg``_=AU0[cKZCOM>@0
+R1
+R2
+w1611144848
+8D:/homework/master/lab/computer_arch/Lab3/MUX_2to1.v
+FD:/homework/master/lab/computer_arch/Lab3/MUX_2to1.v
+L0 8
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/homework/master/lab/computer_arch/Lab3/MUX_2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/MUX_2to1.v|
+!s101 -O0
+!i113 1
+R5
+n@m@u@x_2to1
+vProgramCounter
+R6
+!i10b 1
+!s100 g9Ubjn_meG?ZRZlkMYD411
+I13dl1zaSTTX0iJ0[[PCc00
+R1
+R2
+Z8 w1610533537
+8D:/homework/master/lab/computer_arch/Lab3/ProgramCounter.v
+FD:/homework/master/lab/computer_arch/Lab3/ProgramCounter.v
+L0 8
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/homework/master/lab/computer_arch/Lab3/ProgramCounter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/ProgramCounter.v|
+!s101 -O0
+!i113 1
+R5
+n@program@counter
+vReg_File
+R6
+!i10b 1
+!s100 3D3UQTRQ2jP1MXn:N3<;N0
+I9NcR1XIUXWic9ZV7jj;UQ0
+R1
+R2
+R8
+8D:/homework/master/lab/computer_arch/Lab3/Reg_File.v
+FD:/homework/master/lab/computer_arch/Lab3/Reg_File.v
+L0 8
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/homework/master/lab/computer_arch/Lab3/Reg_File.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/Reg_File.v|
+!s101 -O0
+!i113 1
+R5
+n@reg_@file
+vShift_Left_1
+R6
+!i10b 1
+!s100 Sobz8@_j;gVXc^275]=O>0
+IQS1<9OY1=P=1>Oh8`IW2A1
+R1
+R2
+w1611144898
+8D:/homework/master/lab/computer_arch/Lab3/Shift_Left_1.v
+FD:/homework/master/lab/computer_arch/Lab3/Shift_Left_1.v
+L0 8
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/homework/master/lab/computer_arch/Lab3/Shift_Left_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/Shift_Left_1.v|
+!s101 -O0
+!i113 1
+R5
+n@shift_@left_1
+vSimple_Single_CPU
+!s110 1611228128
+!i10b 1
+!s100 CKhJ?f2R]WPNlzZZh85EU1
+IDe`Tb=kQ@LmX=P5R<KAzA1
+R1
+R2
+w1611228094
+8D:/homework/master/lab/computer_arch/Lab3/Simple_Single_CPU.v
+FD:/homework/master/lab/computer_arch/Lab3/Simple_Single_CPU.v
+L0 7
+R3
+r1
+!s85 0
+31
+!s108 1611228128.000000
+!s107 D:/homework/master/lab/computer_arch/Lab3/Simple_Single_CPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/Simple_Single_CPU.v|
+!s101 -O0
+!i113 1
+R5
+n@simple_@single_@c@p@u
+vtestbench
+R0
+!i10b 1
+!s100 fc1?:IB1<M[`=?EHl]zJo0
+I03M_E35S;PRESoKS>Qke[2
+R1
+R2
+w1610533538
+8D:/homework/master/lab/computer_arch/Lab3/testbench.v
+FD:/homework/master/lab/computer_arch/Lab3/testbench.v
+L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/homework/master/lab/computer_arch/Lab3/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/homework/master/lab/computer_arch/Lab3/testbench.v|
+!s101 -O0
+!i113 1
+R5
