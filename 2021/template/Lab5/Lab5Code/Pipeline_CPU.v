@@ -91,13 +91,10 @@ wire [31:0] MEMWB_pc_add4_o;
 
 //Create componentes
 ///    IF
-MUX_2to1 Mux_PCSrc(
-		);
 		
 ProgramCounter PC(
         .clk_i(clk_i),      
 	    .rst_i (rst_i),     
-		.PCWrite(PC_write),
 	    .pc_i(pc_i),   
 	    .pc_o(pc_o) 
 	    );
@@ -118,10 +115,6 @@ IF_register IFtoID(
 
 /////// ID
 
-Hazard_detection Hazard_detection_obj(
-);
-MUX_2to1 Mux_control(
-);
 Decoder Decoder(
         .instr_i(IFID_instr_o), 
 		.ALUSrc(ALUSrc),
@@ -150,13 +143,8 @@ Reg_File RF(
 Imm_Gen ImmGen(
 		);
 
-Shift_Left_1 SL1(
-		);
 
-Adder Branch_Adder(
-	    );
 
-//BEQ or BNE or BLT or BGE
 
 EXE_register IDtoEXE(
     );	
@@ -194,7 +182,7 @@ WB_register MEMtoWB(
      );
 		
 /// WB
-MUX_3to1 Mux_MemtoReg(
+MUX_2to1 Mux_MemtoReg(
 		);
 
 

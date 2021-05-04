@@ -8,7 +8,6 @@ Student ID:
 module ProgramCounter(
     input				clk_i,
 	input 				rst_i,
-	input 				PCWrite,
 	input	   [32-1:0] pc_i,
 	output reg [32-1:0] pc_o
 	);
@@ -17,7 +16,7 @@ module ProgramCounter(
 always @(posedge clk_i) begin
 		if(~rst_i)
 			pc_o <= 0;
-		else if(PCWrite)
+		else 
 			pc_o <= pc_i;
 	end
 
