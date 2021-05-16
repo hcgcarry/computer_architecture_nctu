@@ -17,11 +17,12 @@ score=0
 echo "=========================="
 for ((i=1;i<=13;i++))
 do
-    if [ $(diff <(cat ../Lab5Answer/result_$i.txt) <(cat result/result_$i.txt) | wc -l ) -eq 0 ]
-    then
+    diffResult=$(diff  "../Lab5Answer/result_$i.txt"  "result/result_$i.txt") 
+    errono=$?
+    #echo "diffresult:"$diffResult,"errorno:"$errono
+    if [ $errono -eq 0 ];then
         echo "testcase $i pass"
-        if [ $i -gt 10 ] 
-        then
+        if [ $i -gt 10 ]; then
             bonusScore=$(($bonusScore + 1))
         else
             score=$(($score+1))

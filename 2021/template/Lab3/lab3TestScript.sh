@@ -17,6 +17,10 @@ score=0
 echo "=========================="
 for ((i=1;i<=10;i++))
 do
+      if [ ! -f "../Lab3Answer/result_$i.txt" ] && [ ! -f "result/result_$i.txt" ];then
+        echo "../Lab3Answer/result_$i.txt or result/result_$i.txt not exist"
+        exit 1
+      fi
     if [ $(diff <(cat ../Lab3Answer/result_$i.txt) <(cat result/result_$i.txt) | wc -l ) -eq 0 ]
     then
         echo "testcase $i pass"
